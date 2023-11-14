@@ -20,7 +20,7 @@ With us you will find: +
 +
 link:https://www.familysearch.org/en/help/helpcenter/lessons/ortsfamilienbucher-ortssippenbucher-introduction[Introduction to Orstfamilienfücher]
 * link:https://www.leo-bw.de/web/guest/themen/auswanderer[SW Germany Emigrants Database]
-* link:https://www.familysearch.org/en/wiki/Baden_Emigration_and_Immigration[Beden Emigration]
+* link:https://www.familysearch.org/en/wiki/Baden_Emigration_and_Immigration[Baden Emigration]
 
 == German Genealogy Researchers
 
