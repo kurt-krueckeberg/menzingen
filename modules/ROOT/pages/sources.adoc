@@ -5,7 +5,7 @@
 * link:https://www.compgen.de/[CompGen] Germany's Largest Association for Family Research
 * link:https://www.archivportal-d.de/?lang=en[Archivportal-D] is the sub-portal of the Deutsche Digitale Bibliothek. +
 +
-Search it to find: +
+Use it to find: +
 +
 ** A comprehensive **directory of German archival institutions**
 ** Descriptive information on the records of our data partner archives
