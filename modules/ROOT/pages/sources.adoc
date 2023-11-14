@@ -3,7 +3,7 @@
 == Resource Links (currently unorganized)
 
 * link:https://www.compgen.de/[CompGen] Germany's Largest Association for Family Research
-* link:https://www.archivportal-d.de/?lang=en[Archivportal-D] sub-portal of the Deutsche Digitale Bibliothek +
+* link:https://www.archivportal-d.de/?lang=en[Archivportal-D] is a sub-portal of the Deutsche Digitale Bibliothek +
 +
 offers you a comprehensive search for archives and archival records in Germany. +
 +
