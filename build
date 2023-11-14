@@ -3,3 +3,4 @@ rm -rf public && npx antora --fetch antora-playbook.yml
 cp css/*.css public/_/css/
 cp -r public/* /var/www/familienkunde.com/menzingen/
 cp -r public/_ /var/www/familienkunde.com/menzingen/
+/var/www/setup
