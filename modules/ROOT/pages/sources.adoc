@@ -11,10 +11,10 @@ Use it to find: +
 ** Descriptive information on the records of our data partner archives
 ** Digitized copies of records of individual data partner archives
 ** Online Collections on the topics of the "Weimar Republic" and "Compensation for National Socialist Injustice"
-* Family Search link:https://www.familysearch.org/en/wiki/Baden-W%C3%BCrttemberg,_Germany_Genealogy[Baden-Württemberg, German Genealogy]
-* Genealogy.wiki page for link:https://wiki.genealogy.net/Menzingen_(Kraichtal)[Menzingen(Kraichtal)]
-* link:https://www.archion.de/[Archion.de] has the digitalized Menzingenkirchenbücher (church registers)
-* link:https://wiki.genealogy.net/Menzingen,_OFB[Menzingen Ortsfamilienbuch] +
+* Family Search guide to link:https://www.familysearch.org/en/wiki/Baden-W%C3%BCrttemberg,_Germany_Genealogy[Baden-Württemberg, German Genealogy]
+* Genealogy.net wiki page for link:https://wiki.genealogy.net/Menzingen_(Kraichtal)[Menzingen(Kraichtal)]
+** Its link:https://wiki.genealogy.net/Menzingen,_OFB[Menzingen Ortsfamilienbuch]
+* link:https://www.archion.de/[Archion.de] currently has the digitalized Menzingenkirchenbücher (church registers)
 +
 link:https://www.familysearch.org/en/help/helpcenter/lessons/ortsfamilienbucher-ortssippenbucher-introduction[Introduction to Orstfamilienfücher]
 * link:https://www.leo-bw.de/web/guest/themen/auswanderer[SW Germany Emigrants Database]
