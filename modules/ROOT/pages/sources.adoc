@@ -15,7 +15,7 @@ Use it to find: +
 * Genealogy.net wiki page for link:https://wiki.genealogy.net/Menzingen_(Kraichtal)[Menzingen(Kraichtal)]
 ** Its link:https://wiki.genealogy.net/Menzingen,_OFB[Menzingen Ortsfamilienbuch] +
 +
-See link:https://www.familysearch.org/en/help/helpcenter/lessons/ortsfamilienbucher-ortssippenbucher-introduction[Introduction to Orstfamilienfücher]
+To understand Ortsfamilienbücher, see link:https://www.familysearch.org/en/help/helpcenter/lessons/ortsfamilienbucher-ortssippenbucher-introduction[Introduction to Orstfamilienfücher]
 * link:https://www.archion.de/[Archion.de] currently has the digitalized Menzingenkirchenbücher (church registers)
 * link:https://www.leo-bw.de/web/guest/themen/auswanderer[SW Germany Emigrants Database]
 * link:https://www.familysearch.org/en/wiki/Baden_Emigration_and_Immigration[Baden Emigration]
