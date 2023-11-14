@@ -1,4 +1,4 @@
 = Overview
 
-The start of research for the Lehmann family from Menzingen. See the xref:german-sources.adoc[German Sources].
+The start of research for the Lehmann family from Menzingen. See the xref:sources.adoc[German Sources].
 
